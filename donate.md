@@ -1,6 +1,7 @@
 ---
 layout: page
-title: Donate
+title: Blog
+permalink: /blog/
 ---
 
 Donate to the site!

@@ -115,11 +115,11 @@ a {
     text-decoration: underline;
   }
 
-  .social-media-list &:hover {
-    text-decoration: none;
+  &.site-title {
+    color: $header-text-color;
 
-    .username {
-      text-decoration: underline;
+    &:hover {
+      color: $text-color;
     }
   }
 }
