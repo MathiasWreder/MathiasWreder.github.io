@@ -125,6 +125,14 @@ a {
   }
 }
 
+hr {
+  height: 1px;
+  color: $header-color;
+  background-color: $header-color;
+  border: none;
+  margin: 10px 0;
+}
+
 
 /**
  * Blockquotes
