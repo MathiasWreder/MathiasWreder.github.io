@@ -8,6 +8,7 @@ Hej!
 
 Mitt namn är Mathais Wreder och jag är 29 år gammal. Jag är född och uppvuxen i Örebro och bor tillsammans med min sambo Janina och vår katt Lynx i en 3.a på väster.
 <hr>
+
 ### Intressen
 
 * Data & tv-spel
@@ -35,7 +36,8 @@ Vi hyrde en Ford Mustang GT och körde **Los Angeles** > **San Fransisco** > **L
 #### **_Träning_**
 Träning är viktigt för hälsan. Som grabb spelade jag fotboll, innebandy, basket och golf. På senare år har tyvärr lagsporterna vuxit ifrån en.
 Numera motionerar jag främst genom promenader, löpning och gym. 
-<hr>     
+<hr>  
+
 ### Tidigare arbeten
 * Green Cargo AB - 2008-2014
     * Kundkoordinator
