@@ -7,14 +7,17 @@ categories: jekyll update
 
 
 
-* **Vad tycker du om att förbereda din CSS?**
-    * **Jämfört med vanlig CSS**
-    * **Vilka tekniker använde du?** Jag har använt mig av variabler för att sätta färg på till exempel text och bakgrund. Sedan använde jag nestling för att ändra utseendet på diverse a-taggar. Det finns även fler tekniker i källkoden som kom med från minima, men jag valde att inte ändra på dessa då resultatet passade med den layout jag ville ha på webbplatsen. 
+* **Vad tycker du om att förkompilera din CSS?** 
+Det var helt ok, kändes lite rörigt i början men man ser potentialen.
+    * **Jämfört med vanlig CSS?** 
+    Lättare att hitta till rätt ställe i källkoden, då den är uppdelad i fler olika filer beroende på vad den styr utseendet på. Skönt att kunna använda sig av diverse tekniker för att ungå att skriva samma kod flera gånger.
+    * **Vilka tekniker använde du?** 
+    Jag har använt mig av variabler för att sätta färg på till exempel text och bakgrund. Sedan använde jag nästling för att ändra utseendet på diverse a-taggar. Det finns även fler tekniker i källkoden som kom med från minima, men jag valde att inte ändra på dessa då resultatet passade med den layout jag ville ha på webbplatsen. 
     * **För-och nackdelar?**
         * **Fördelar:**
             * Mindre kod att underhålla.
             * Använda sig av variabler och göra beräkningar.
-            * Organisera koden bättre till exempel med hjälp av nästling.
+            * Organisera koden bättre, till exempel med hjälp av nästling.
         * **Nackdelar:**
             * Svårare att debugga, då radnummren i webbläsaren inte stämmer med radnummren i källkoden.
             * Mer komplex kod.
@@ -22,9 +25,9 @@ categories: jekyll update
      <br />
 
 * **Vad tycker du om statiska webbplats generatorer?**
-Jag tycker de är bra! Jag tycker de är bra! Jag tycker de är bra! Jag tycker de är bra!
+Jag tycker dem verkar bra. Smidigt att skapa mallar som man sedan bakar ihop till fullstädiga sidor på webbplatsen. Kul att man kan använda markdown för att skapa innehållet. 
     * **Vilken typ av projekt är de lämpliga för?**
-    De är lämpliga för.    
+    De är lämpliga för webbplatser som ska klara av hög beslastning, ha snabb responstid och vara enkla att uppdatera.    
     <br />
 
 * **Vad är robots.txt och hur har du konfigurerat det för din webbplats?**
